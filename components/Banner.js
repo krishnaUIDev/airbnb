@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import HeroImage from "./test.jpg";
+import HeroImage from "./banner.jpg";
 
 function Banner() {
   return (
